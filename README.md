@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bouchra Sahel</h1>
+<h1 align="center">Hi 👋, I'm Bouchra Sahel from Morocco</h1>
 <h3 align="center">Robotics & AI Engineer | Multimodal Interaction | Autonomous Systems | ROS Enthusiast</h3>
 
 - 🌱 I’m currently learning **ROS2 Navigation Stack, Custom SLAM Algorithms**
