@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/bouchra-sahel-8b989a228/)
 
-- ⚡ Fun fact: _My robot has 3D mapping, object detection, and SLAM. Me? I still trip over the same chair every morning._
+- ⚡ _My robot has 2D mapping, object detection, and SLAM. Me? I still trip over the same chair every morning._
 
 ---
 
