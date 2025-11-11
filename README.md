@@ -6,7 +6,6 @@
 - 💬 Ask me about **Artificial Intelligence, Robotics, Computer Vision, Embedded Systems, and Multimodal Human-Robot Interaction**
 - 📫 How to reach me: **bouchrasahel43@gmail.com**
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/bouchra-sahel-8b989a228/)
-- ⚡ _My robot has 2D mapping, object detection, and SLAM. Me? I still trip over the same chair every morning._
 
 ---
 
@@ -116,19 +115,4 @@
   </a>
 </p>
 
----
 
-<h3 align="left">🧠 GitHub Stats:</h3>
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BouchraSahel&show_icons=true&hide_border=true&count_private=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouchraSahel&layout=compact&hide_border=true&theme=dark" />
-</p>
-
----
-
-<h3 align="left">🚀 Featured Projects:</h3>
-<p align="left">
-  <a href="https://github.com/BouchraSahel/robotics-project" target="_blank">🤖 Robotics SLAM & Navigation</a><br>
-  <a href="https://github.com/BouchraSahel/face-detection" target="_blank">🕵️‍♀️ Face Detection Project</a><br>
-  <a href="https://github.com/BouchraSahel/ai-multimodal" target="_blank">🧠 Multimodal AI Interaction</a>
-</p>
